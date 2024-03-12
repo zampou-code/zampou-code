@@ -20,7 +20,8 @@
 
 <section>
     <h2 align="center">Working Tools 🧰</h2>
-    <div align="left">
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+    <div align="center">
         <h3 >Font-end</h3>
         <img src="https://skillicons.dev/icons?i=nextjs,nuxt,tailwind,materialui" />
     </div> 
@@ -28,7 +29,7 @@
         <h3>Back-end</h3>
         <img src="https://skillicons.dev/icons?i=laravel,adonis,expressjs,nodejs" />
     </div>
-    <div align="right">
+    <div align="center">
         <h3>CI/CD</h3>
         <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" />
     </div>
