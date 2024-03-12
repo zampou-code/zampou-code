@@ -50,9 +50,8 @@
 <section align="center">
     <hr />
     <h2 align="center">statistic 📊</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=zampou-code&show_icons=true&locale=en&theme=tokyonight" alt="zampou-code" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="zampou-code" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=zampou-code&show_icons=true&locale=en&theme=tokyonight" alt="zampou-code" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="zampou-code" />
     <br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zampou-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zampou-code" />
-    <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zampou-code/zampou-code/output/github-contribution-grid-snake.svg" /> -->
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zampou-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zampou-code" />
 </section>
