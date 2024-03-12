@@ -27,8 +27,8 @@ module.exports = `
     <div align="center">
         <h3>Back-end</h3>
         <img src="https://skillicons.dev/icons?i=laravel,adonis,expressjs,nodejs" />
-    </div >
-    <div align="right" >
+    </div>
+    <div align="right">
         <h3>CI/CD</h3>
         <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" />
     </div>
@@ -44,7 +44,7 @@ module.exports = `
 <section align="center">
     <h2 align="center">statistic 📊</h2>
     <img width=377 src="https://github-readme-stats.vercel.app/api?username=zampou-code&show_icons=true&locale=en&theme=tokyonight" alt="zampou-code" />
-    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="zampou-code" />
+    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=zampou-code&&theme=tokyonight" alt="zampou-code" />
     <br />
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zampou-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zampou-code" />
 </section>

@@ -1,3 +1,4 @@
+
 <section align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=38A1E6&lines=Hi+There!+👋;+I'm+Zi+Code!;"/>
 </section>
@@ -26,8 +27,8 @@
     <div align="center">
         <h3>Back-end</h3>
         <img src="https://skillicons.dev/icons?i=laravel,adonis,expressjs,nodejs" />
-    </div >
-    <div align="right" >
+    </div>
+    <div align="right">
         <h3>CI/CD</h3>
         <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" />
     </div>
@@ -43,7 +44,7 @@
 <section align="center">
     <h2 align="center">statistic 📊</h2>
     <img width=377 src="https://github-readme-stats.vercel.app/api?username=zampou-code&show_icons=true&locale=en&theme=tokyonight" alt="zampou-code" />
-    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="zampou-code" />
+    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=zampou-code&&theme=tokyonight" alt="zampou-code" />
     <br />
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zampou-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zampou-code" />
 </section>
@@ -61,5 +62,4 @@ Last update on Tue Mar 12 2024
 **294 day before 2025 ⏱** days before new years
 
 🤖 This README.md is updated with pleasure, by Zbot ❤️
-
 </section>
