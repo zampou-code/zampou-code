@@ -6,7 +6,7 @@
 ![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 
 <section align="center"> 
-  <h2 align="center">A passionate web 🧑‍💻 artisan 🧶 from Ivory Coat 🇨🇮</h2>
+  <h2 align="center">Développeur web passionné partageant des solutions numériques efficaces <br /> et collaboratives. Let's code together! 💻🚀</h2>
   <a href="#">
     <img src="https://img.shields.io/badge/X (Twitter)-333333?style=for-the-badge&logo=x&logoColor=red" />
   </a>
