@@ -58,9 +58,9 @@
 
 <section align="center">
 <hr />
-Last update on Thu Apr 25 2024
+Last update on Fri Apr 26 2024
 
-**251 day before 2025 ⏱** days before new years
+**250 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with cruelty, by Zbot ❤️
+🤖 This README.md is updated with horror, by Zbot ❤️
 </section>
